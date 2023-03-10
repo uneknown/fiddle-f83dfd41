@@ -3,6 +3,7 @@ description = ""
 language = "rust"
 manifest_version = 2
 name = "Geo-IP API at the edge"
+service_id = "4Gkrj5cm739nhdhpCc2TW5"
 
 [local_server.backends.origin_0]
       url = "https://http-me.glitch.me"
